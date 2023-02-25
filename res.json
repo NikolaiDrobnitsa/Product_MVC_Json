@@ -1,0 +1,53 @@
+[
+    [
+        "{id:0, name: kiwi, price: 573.0163, count: 79.970634, weight: 219.30945, category: {id:0, name: Fruitrating: 8}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: Orange, price: 809.9438, count: 92.945, weight: 657.79987, category: {id:0, name: Fruitrating: 8}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: Melon, price: 711.58075, count: 30.942356, weight: 795.5186, category: {id:0, name: Fruitrating: 8}, manufacturer: {id:2, name: Germanyrating: 5}}",
+        "{id:0, name: spring, price: 798.2484, count: 81.62805, weight: 522.07227, category: {id:3, name: Fishrating: 4}, manufacturer: {id:0, name: Ukrainerating: 9}}",
+        "{id:0, name: salmon, price: 344.48264, count: 78.108284, weight: 754.92883, category: {id:3, name: Fishrating: 4}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: trout, price: 520.14746, count: 13.270667, weight: 993.6429, category: {id:3, name: Fishrating: 4}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: beef, price: 351.71762, count: 31.480307, weight: 335.72833, category: {id:2, name: Dairyrating: 6}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: chicken, price: 193.02704, count: 83.64476, weight: 107.1563, category: {id:2, name: Dairyrating: 6}, manufacturer: {id:2, name: Germanyrating: 5}}",
+        "{id:0, name: turkey, price: 969.3327, count: 20.33421, weight: 573.08276, category: {id:2, name: Dairyrating: 6}, manufacturer: {id:2, name: Germanyrating: 5}}",
+        "{id:0, name: caramel, price: 323.66592, count: 71.21423, weight: 963.95905, category: {id:3, name: Fishrating: 4}, manufacturer: {id:2, name: Germanyrating: 5}}",
+        "{id:0, name: Dough, price: 41.993603, count: 10.928155, weight: 545.8077, category: {id:3, name: Fishrating: 4}, manufacturer: {id:0, name: Ukrainerating: 9}}",
+        "{id:0, name: croissant, price: 851.3907, count: 41.722076, weight: 278.79147, category: {id:3, name: Fishrating: 4}, manufacturer: {id:2, name: Germanyrating: 5}}",
+        "{id:0, name: Curd, price: 995.41815, count: 5.0691857, weight: 106.09765, category: {id:4, name: Meatrating: 7}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: Yogurt, price: 137.08191, count: 60.029156, weight: 308.06592, category: {id:4, name: Meatrating: 7}, manufacturer: {id:0, name: Ukrainerating: 9}}",
+        "{id:0, name: Sour cream, price: 953.85046, count: 82.33613, weight: 363.44244, category: {id:4, name: Meatrating: 7}, manufacturer: {id:2, name: Germanyrating: 5}}"
+    ],
+    [
+        "{id:0, name: Fruitrating: 8}",
+        "{id:1, name: Sweetrating: 9}",
+        "{id:2, name: Dairyrating: 6}",
+        "{id:3, name: Fishrating: 4}",
+        "{id:4, name: Meatrating: 7}"
+    ],
+    [
+        "{id:0, name: kiwi, price: 573.0163, count: 79.970634, weight: 219.30945, category: {id:0, name: Fruitrating: 8}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: Orange, price: 809.9438, count: 92.945, weight: 657.79987, category: {id:0, name: Fruitrating: 8}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: salmon, price: 344.48264, count: 78.108284, weight: 754.92883, category: {id:3, name: Fishrating: 4}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: trout, price: 520.14746, count: 13.270667, weight: 993.6429, category: {id:3, name: Fishrating: 4}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: beef, price: 351.71762, count: 31.480307, weight: 335.72833, category: {id:2, name: Dairyrating: 6}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: Curd, price: 995.41815, count: 5.0691857, weight: 106.09765, category: {id:4, name: Meatrating: 7}, manufacturer: {id:1, name: USArating: 7}}"
+    ],
+    ["{id:0, name: Dough, price: 41.993603, count: 10.928155, weight: 545.8077, category: {id:3, name: Fishrating: 4}, manufacturer: {id:0, name: Ukrainerating: 9}}"],
+    [
+        "{id:0, name: salmon, price: 344.48264, count: 78.108284, weight: 754.92883, category: {id:3, name: Fishrating: 4}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: trout, price: 520.14746, count: 13.270667, weight: 993.6429, category: {id:3, name: Fishrating: 4}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: beef, price: 351.71762, count: 31.480307, weight: 335.72833, category: {id:2, name: Dairyrating: 6}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: chicken, price: 193.02704, count: 83.64476, weight: 107.1563, category: {id:2, name: Dairyrating: 6}, manufacturer: {id:2, name: Germanyrating: 5}}",
+        "{id:0, name: caramel, price: 323.66592, count: 71.21423, weight: 963.95905, category: {id:3, name: Fishrating: 4}, manufacturer: {id:2, name: Germanyrating: 5}}",
+        "{id:0, name: Dough, price: 41.993603, count: 10.928155, weight: 545.8077, category: {id:3, name: Fishrating: 4}, manufacturer: {id:0, name: Ukrainerating: 9}}",
+        "{id:0, name: Yogurt, price: 137.08191, count: 60.029156, weight: 308.06592, category: {id:4, name: Meatrating: 7}, manufacturer: {id:0, name: Ukrainerating: 9}}"
+    ],
+    [
+        "{id:0, name: salmon, price: 344.48264, count: 78.108284, weight: 754.92883, category: {id:3, name: Fishrating: 4}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: trout, price: 520.14746, count: 13.270667, weight: 993.6429, category: {id:3, name: Fishrating: 4}, manufacturer: {id:1, name: USArating: 7}}",
+        "{id:0, name: caramel, price: 323.66592, count: 71.21423, weight: 963.95905, category: {id:3, name: Fishrating: 4}, manufacturer: {id:2, name: Germanyrating: 5}}",
+        "{id:0, name: Dough, price: 41.993603, count: 10.928155, weight: 545.8077, category: {id:3, name: Fishrating: 4}, manufacturer: {id:0, name: Ukrainerating: 9}}"
+    ],
+    [],
+    ["{id:0, name: Sour cream, price: 953.85046, count: 82.33613, weight: 363.44244, category: {id:4, name: Meatrating: 7}, manufacturer: {id:2, name: Germanyrating: 5}}"],
+    []
+]
