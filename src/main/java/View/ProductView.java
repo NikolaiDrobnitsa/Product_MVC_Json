@@ -71,8 +71,8 @@ public class ProductView {
         System.out.println("7. Products of the most unpopular manufacturer in the most popular category");
         System.out.println("8. Product weighing up to 1kg (random)");
         System.out.println("9. Products priced from $1 to $5 and weighing up to 500 grams");
-        System.out.println("10. Write product in txt");
-        System.out.println("10. Write Result in txt");
+        System.out.println("10. Write product in JsonFile");
+        System.out.println("11. Write Result in JsonFile");
         System.out.println("0. Exit");
     }
     public int getUserChoice() {
@@ -136,7 +136,22 @@ public class ProductView {
     public static List<Product> ChipProduct(){
         return ArrayProducts.stream().filter(p->p.getPrice() > 1 && p.getPrice() < 5 && p.getWeight() < 500).toList();
     }
-    public static void WriteResultToFile(){
+    public static void WriteToJson(){
+        JSONArray json = new JSONArray();
+
+        json.put(All_Product());
+        try(FileWriter writer = new FileWriter("mydbProduct.json", false))
+        {
+            writer.write(json.toString(4));
+            writer.flush();
+        }
+        catch(IOException ex){
+            System.out.println(ex.getMessage());
+        } catch (JSONException e) {
+            throw new RuntimeException(e);
+        }
+    }
+    public static void WriteResToJson(){
         JSONArray json = new JSONArray();
 
         json.put(All_Product());

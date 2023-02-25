@@ -24,7 +24,7 @@ public class ProductController {
             try {
                 switch (choice) {
                     case 1:
-                        productView.All_Product().forEach(product -> System.out.println(product.toString()));
+                       productView.All_Product().forEach(product -> System.out.println(product.toString()));
                         break;
                     case 2:
                         productView.All_Category().forEach(category -> System.out.println(category.toString()));
@@ -55,10 +55,10 @@ public class ProductController {
                         productView.ChipProduct().forEach(product -> System.out.println(product.toString()));
                         break;
                     case 10:
-                        productView.ChipProduct().forEach(product -> System.out.println(product.toString()));
+                        productView.WriteToJson();
                         break;
                     case 11:
-                        productView.WriteResultToFile();
+                        productView.WriteResToJson();
                         break;
 
                     case 0:

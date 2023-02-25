@@ -1,0 +1,17 @@
+[[
+    "{id:0, name: kiwi, price: 683.6365, count: 34.833794, weight: 531.88824, category: {id:0, name: Fruit rating: 8}, manufacturer: {id:1, name: USA rating: 7}}",
+    "{id:0, name: Orange, price: 500.8465, count: 29.156755, weight: 536.6318, category: {id:0, name: Fruit rating: 8}, manufacturer: {id:1, name: USA rating: 7}}",
+    "{id:0, name: Melon, price: 573.47, count: 83.18636, weight: 696.57074, category: {id:0, name: Fruit rating: 8}, manufacturer: {id:2, name: Germany rating: 5}}",
+    "{id:0, name: spring, price: 337.44104, count: 59.34561, weight: 236.86368, category: {id:3, name: Fish rating: 4}, manufacturer: {id:0, name: Ukraine rating: 9}}",
+    "{id:0, name: salmon, price: 43.921135, count: 77.62201, weight: 240.47765, category: {id:3, name: Fish rating: 4}, manufacturer: {id:1, name: USA rating: 7}}",
+    "{id:0, name: trout, price: 357.12442, count: 47.777626, weight: 729.78796, category: {id:3, name: Fish rating: 4}, manufacturer: {id:1, name: USA rating: 7}}",
+    "{id:0, name: beef, price: 913.0183, count: 77.4332, weight: 832.4192, category: {id:2, name: Dairy rating: 6}, manufacturer: {id:1, name: USA rating: 7}}",
+    "{id:0, name: chicken, price: 288.68805, count: 7.0824294, weight: 236.62866, category: {id:2, name: Dairy rating: 6}, manufacturer: {id:2, name: Germany rating: 5}}",
+    "{id:0, name: turkey, price: 503.89514, count: 30.40471, weight: 691.3588, category: {id:2, name: Dairy rating: 6}, manufacturer: {id:2, name: Germany rating: 5}}",
+    "{id:0, name: caramel, price: 365.38718, count: 71.99282, weight: 900.0794, category: {id:3, name: Fish rating: 4}, manufacturer: {id:2, name: Germany rating: 5}}",
+    "{id:0, name: Dough, price: 618.3054, count: 48.10898, weight: 402.78183, category: {id:3, name: Fish rating: 4}, manufacturer: {id:0, name: Ukraine rating: 9}}",
+    "{id:0, name: croissant, price: 927.07587, count: 74.8378, weight: 808.4455, category: {id:3, name: Fish rating: 4}, manufacturer: {id:2, name: Germany rating: 5}}",
+    "{id:0, name: Curd, price: 313.9523, count: 57.44631, weight: 597.9696, category: {id:4, name: Meat rating: 7}, manufacturer: {id:1, name: USA rating: 7}}",
+    "{id:0, name: Yogurt, price: 169.24951, count: 9.1966305, weight: 598.18463, category: {id:4, name: Meat rating: 7}, manufacturer: {id:0, name: Ukraine rating: 9}}",
+    "{id:0, name: Sour cream, price: 636.5052, count: 55.99707, weight: 483.16858, category: {id:4, name: Meat rating: 7}, manufacturer: {id:2, name: Germany rating: 5}}"
+]]

@@ -33,6 +33,6 @@ public class Category {
 
     @Override
     public String toString() {
-        return "{id:" + Id + ", name: " + Name + "rating: " + Rating + "}";
+        return "{id:" + Id + ", name: " + Name + " rating: " + Rating + "}";
     }
 }
